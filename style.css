@@ -35,7 +35,9 @@ img {
 header a {
     display: block;
     padding: 15px;
-    filter: brightness(0) invert(1);
+}
+header a img {
+    width: 200px;
 }
 
 main {

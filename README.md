@@ -1,0 +1,1 @@
+https://card.deguarts.com
